@@ -1,0 +1,6 @@
+{
+  "name": "خبزة",
+  "description": "تطبيق إدارة المخبزة والسلعة اليومية والمبيعات والبقايا وحساب الأرباح للتاجر",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
